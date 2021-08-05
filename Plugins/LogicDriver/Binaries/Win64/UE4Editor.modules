@@ -1,0 +1,10 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"SMExtendedEditor": "UE4Editor-SMExtendedEditor.dll",
+		"SMExtendedRuntime": "UE4Editor-SMExtendedRuntime.dll",
+		"SMSystem": "UE4Editor-SMSystem.dll",
+		"SMSystemEditor": "UE4Editor-SMSystemEditor.dll"
+	}
+}

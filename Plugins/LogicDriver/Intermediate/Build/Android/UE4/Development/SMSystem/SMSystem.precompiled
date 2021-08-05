@@ -1,0 +1,12 @@
+{
+	"OutputFiles": [
+		"Module.SMSystem.cppa7.o",
+		"Module.SMSystem.cppa8.o",
+		"Module.SMSystem.gen.1_of_3.cppa7.o",
+		"Module.SMSystem.gen.2_of_3.cppa7.o",
+		"Module.SMSystem.gen.3_of_3.cppa7.o",
+		"Module.SMSystem.gen.1_of_3.cppa8.o",
+		"Module.SMSystem.gen.2_of_3.cppa8.o",
+		"Module.SMSystem.gen.3_of_3.cppa8.o"
+	]
+}

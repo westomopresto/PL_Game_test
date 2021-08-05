@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.SMSystem.cpp.o",
+		"Module.SMSystem.gen.1_of_3.cpp.o",
+		"Module.SMSystem.gen.2_of_3.cpp.o",
+		"Module.SMSystem.gen.3_of_3.cpp.o"
+	]
+}

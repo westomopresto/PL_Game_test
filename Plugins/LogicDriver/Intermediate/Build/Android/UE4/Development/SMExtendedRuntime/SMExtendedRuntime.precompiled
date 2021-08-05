@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"Module.SMExtendedRuntime.cppa7.o",
+		"Module.SMExtendedRuntime.cppa8.o",
+		"Module.SMExtendedRuntime.gen.cppa7.o",
+		"Module.SMExtendedRuntime.gen.cppa8.o"
+	]
+}
